@@ -2,7 +2,7 @@
 
 - I’m Le Tan Loc (Kaneki) from VietNam, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also wireframingm UX, UI, and design in general.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=letanlocjp1001&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=letanlocjp1001&show_icons=true&theme=cobalt)
 
 
 
